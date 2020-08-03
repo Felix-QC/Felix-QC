@@ -4,7 +4,7 @@
   <h3 align="center">Hii my name is Félix, i'm a young developper who start programming 3 years and i love it 💖</h3>
 </p>
 
-<h3 align="center">Languages a know :</h3>
+<h3 align="center">Languages I know :</h3>
 
 <h3 align="center">
   <b>C/C++</b><br>
