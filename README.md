@@ -15,6 +15,13 @@
   <b>SQL</b><br>
 </h2>
 
+<a href="https://github.com/Felix-QC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-QC&hide=contribs&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Felix-QC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-QC&layout=compact&theme=tokyonight" />
+</a>
+
 <h3 align="center">
   <b>If you want to contact me, there is my Discord :</b><br>
   <b>Féli🥀#3368</b>
