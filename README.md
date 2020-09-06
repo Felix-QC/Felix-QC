@@ -24,7 +24,7 @@
 </h3>
 
 <a href="https://github.com/Felix-QC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-QC&show_icons=true&line_height=20.5&count_private=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="FelixQC's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-QC&show_icons=true&line_height=20.9&count_private=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="FelixQC's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Felix-QC">
