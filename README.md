@@ -24,8 +24,11 @@
 </h3>
 
 <a href="https://github.com/Felix-QC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-QC&hide=contribs&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelixQC&show_icons=true&line_height=27&count_private=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="MiraxxR's GitHub Stats" />
 </a>
+
 <a href="https://github.com/Felix-QC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-QC&layout=compact" />
 </a>
+
+
