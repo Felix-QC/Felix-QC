@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://media2.giphy.com/media/XBFtHsPBAQ3MC4nghZ/giphy.gif">
   <br>
-  <h3 align="center">Hii my name is Félix, i'm a young developper who start programming 3 years and i love it <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Félix, i'm a young developper who start programming 3 years and i love it ❤️</h3>
 </p>
 
 <h3 align="center">Languages I know :</h3>
