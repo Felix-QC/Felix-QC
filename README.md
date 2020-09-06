@@ -27,5 +27,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-QC&hide=contribs&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Felix-QC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-QC&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-QC&layout=compact" />
 </a>
