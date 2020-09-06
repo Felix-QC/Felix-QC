@@ -28,6 +28,5 @@
 </a>
 
 <a href="https://github.com/Felix-QC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-QC&show_icons=true&title_color=black&text_color=black&icon_color=black&bg_color=" alt="FelixQC's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-QC&layout=compact" alt="FelixQC's GitHub Stats"/>
 </a>
-
