@@ -17,7 +17,7 @@
 
 <h3 align="center">
   <b>If you want to contact me, there is my Discord :</b><br>
-  <b>𝙰𝚖𝚋𝚒𝚝𝚒𝚘𝚗𝚒𝚜𝚝#8444</b>
+  <b>𝙰𝚖𝚋𝚒𝚝𝚒𝚘𝚗𝚒𝚜𝚝#0001</b>
   <br>
   <br>
   <img src="https://media3.giphy.com/media/UUzJAaevKqEtfSx9e6/giphy.gif">
